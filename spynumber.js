@@ -1,4 +1,4 @@
-<script>
+
     function myfunction() {
         var inputdata = document.querySelector("input").value;
         var digits = inputdata.split("").map(Number);
@@ -12,4 +12,4 @@
 
         }
     }
-</script
+
