@@ -1,0 +1,50 @@
+
+<style>
+    .box {
+        height: px;
+        width: 300px;
+        display: flex;
+        gap: 10px;
+    }
+
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: lightsalmon;
+    }
+
+    .anotherbox {
+        height: 100px;
+        width: 300px;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .container {
+        height: 400px;
+        width: 700px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    input {
+        height: 40px;
+        width: 200px;
+        border-radius: 4px;
+        font-size: 20px;
+    }
+
+    button {
+        height: 40px;
+        width: 90px;
+        border-radius: 4px;
+
+    }
+
+    button:hover {
+        background-color: lightblue;
+    }
+</style>
