@@ -1,6 +1,4 @@
-
-<style>
-    .box {
+.box {
         height: px;
         width: 300px;
         display: flex;
@@ -47,4 +45,4 @@
     button:hover {
         background-color: lightblue;
     }
-</style>
+
